@@ -1,2 +1,2 @@
 # Elixir
-# Elixir Progrmming.
+# Elixir Codes for beginner. 
